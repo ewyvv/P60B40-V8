@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     cout << "Hello World" << endl;
-    cout << "This line is modified in feature-A branch. " << endl;
+    cout << "This line is modified in feature-B branch. (versi konflik)" << endl;
 
     return 0;
 }
